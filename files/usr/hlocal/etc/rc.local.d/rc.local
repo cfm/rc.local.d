@@ -1,3 +1,0 @@
-for x in $(ls /usr/hlocal/etc/rc.local.d/*.rc.conf); do
-	. $x
-done
