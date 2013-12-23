@@ -1,0 +1,5 @@
+This should actually be rc.conf.local.d.
+
+In "/etc/" or "/usr/local/etc"?
+
+Rethink filenames in the dir, too.
